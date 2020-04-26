@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ID APPLICATION</string>
+    <string name="hint_id">ENTER REGISTRATION NUMBER</string>
+    <string name="show_name">SHOW NAME</string>
+    <string name="name">name:</string>
+    <string name="how_much_do_you_like_android_studio">HOW MUCH DO YOU LIKE ANDROID STUDIO</string>
+</resources>
